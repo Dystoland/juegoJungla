@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 2</name>
+    <events>
+        <event-block sid="2580854753589151">
+            <conditions>
+                <condition id="1" name="On any key pressed" sid="4341274106788939" type="Keyboard" />
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="3850538562729445" type="System">
+                    <param id="0" name="Layout">layout 1</param>
+                </action>
+                <action id="-21" name="Reset global variables" sid="1560308100588725" type="System" />
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
